@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/learninghub/static/css/main.405be47d.css",
+    "main.js": "/learninghub/static/js/main.171f2065.js",
+    "static/js/787.a0ae1634.chunk.js": "/learninghub/static/js/787.a0ae1634.chunk.js",
+    "static/media/llm.png": "/learninghub/static/media/llm.761b4e20ba2a73a1f00d.png",
+    "static/media/cyber.png": "/learninghub/static/media/cyber.f13ebf0b4b6b609eca87.png",
+    "static/media/rl.jpeg": "/learninghub/static/media/rl.339b0b9fb69e94260342.jpeg",
+    "static/media/ai.pdf": "/learninghub/static/media/ai.952d37962fb94b3b53e4.pdf",
+    "static/media/ds.jpeg": "/learninghub/static/media/ds.f55d5350fb12e1ac06e5.jpeg",
+    "static/media/c++.png": "/learninghub/static/media/c++.2137af860a6563e7384c.png",
+    "static/media/aiml.jpeg": "/learninghub/static/media/aiml.18e4b33652fc57678178.jpeg",
+    "static/media/nosql.webp": "/learninghub/static/media/nosql.16d9b3f9fae447d613e9.webp",
+    "static/media/tableau.png": "/learninghub/static/media/tableau.293cdf6bd5452f2f85d1.png",
+    "static/media/r.jpeg": "/learninghub/static/media/r.6afd437e1660ffc11b1a.jpeg",
+    "static/media/python.jpeg": "/learninghub/static/media/python.349c9396902942b5f1e7.jpeg",
+    "static/media/sql.png": "/learninghub/static/media/sql.d1c240a2b1dfb6ff8eb5.png",
+    "static/media/logo.png": "/learninghub/static/media/logo.819f9fee3df4d11f8d5e.png",
+    "index.html": "/learninghub/index.html",
+    "main.405be47d.css.map": "/learninghub/static/css/main.405be47d.css.map",
+    "main.171f2065.js.map": "/learninghub/static/js/main.171f2065.js.map",
+    "787.a0ae1634.chunk.js.map": "/learninghub/static/js/787.a0ae1634.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.405be47d.css",
+    "static/js/main.171f2065.js"
+  ]
+}
